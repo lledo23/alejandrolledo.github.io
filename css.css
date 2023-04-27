@@ -1,0 +1,32 @@
+.jumbotron {
+    background-image: url(header.jpg);
+    background-size: cover;
+    height: 500px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 4rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron p {
+    color: #fff;
+    font-size: 2rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilos para las habilidades */
+.progress {
+    margin-top: 20px;
+}
+
+/* Estilos para el footer */
+.footer {
+    margin-top: 20px;
+    padding: 20px 0;
+}
+
+.footer span {
+    font-size: 0.8rem;
+}
